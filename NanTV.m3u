@@ -121,3 +121,5 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://135.125.109.73:9000/beinsport2_.m3u8
