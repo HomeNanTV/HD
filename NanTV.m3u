@@ -161,3 +161,7 @@ http://lspapp.store/THMANYH-3/tracks-v1a1/mono.m3u8
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Live 21
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/rotana/khaleejiya_1080p/l_128_96858000_2430807.ts
+#EXTINF:-1,Rotana Khaleejiya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://rotana.net
+http://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
