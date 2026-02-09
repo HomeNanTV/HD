@@ -187,3 +187,5 @@ https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
 #EXTINF:-1,Live 32
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
+#EXTINF:-1 tvg-logo="https://rotana.net" group-title="Rotana", Rotana Khaleejiya
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
