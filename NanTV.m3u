@@ -12,8 +12,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 #EXTINF:-1,MBC + Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1,خليجية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://rotana.net
 http://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
@@ -176,8 +174,14 @@ https://mejarhosting.cfd/posttv1080p/ch05/master.m3u8
 #EXTINF:-1,Live 26
 https://mejarhosting.cfd/posttv1080p/ch06/master.m3u8
 #EXTINF:-1,Live 27
+https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
 #EXTINF:-1,Live 28
+https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
 #EXTINF:-1,Live 29
+https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
 #EXTINF:-1,Live 30
+https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
 #EXTINF:-1,Live 31
+https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
 #EXTINF:-1,Live 32
+https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
