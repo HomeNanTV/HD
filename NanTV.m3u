@@ -124,58 +124,76 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1,Live 1
-https://mejarhosting.cfd/posttv1080p/ch01/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67338.m3u8
 #EXTINF:-1,Live 2
-https://mejarhosting.cfd/posttv1080p/ch02/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67339.m3u8
 #EXTINF:-1,Live 3
-https://mejarhosting.cfd/posttv1080p/ch03/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67340.m3u8
 #EXTINF:-1,Live 4
-https://mejarhosting.cfd/posttv1080p/ch04/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67341.m3u8
 #EXTINF:-1,Live 5
-https://mejarhosting.cfd/posttv1080p/ch05/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67342.m3u8
 #EXTINF:-1,Live 6
-https://mejarhosting.cfd/posttv1080p/ch06/master.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67343.m3u8
 #EXTINF:-1,Live 7
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550424
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
 #EXTINF:-1,Live 8
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550425
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
 #EXTINF:-1,Live 9
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550426
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67346.m3u8
 #EXTINF:-1,Live 10
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550427
+https://mejarhosting.cfd/posttv1080p/ch01/master.m3u8
 #EXTINF:-1,Live 11
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550428
+https://mejarhosting.cfd/posttv1080p/ch02/master.m3u8
 #EXTINF:-1,Live 12
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550429
+https://mejarhosting.cfd/posttv1080p/ch03/master.m3u8
 #EXTINF:-1,Live 13
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550430
+https://mejarhosting.cfd/posttv1080p/ch04/master.m3u8
 #EXTINF:-1,Live 14
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550431
+https://mejarhosting.cfd/posttv1080p/ch05/master.m3u8
 #EXTINF:-1,Live 15
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550432
+https://mejarhosting.cfd/posttv1080p/ch06/master.m3u8
 #EXTINF:-1,Live 16
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550439
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550424
 #EXTINF:-1,Live 17
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550425
 #EXTINF:-1,Live 18
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550426
 #EXTINF:-1,Live 19
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550427
 #EXTINF:-1,Live 20
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550428
 #EXTINF:-1,Live 21
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550429
 #EXTINF:-1,Live 22
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550430
 #EXTINF:-1,Live 23
-https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550431
 #EXTINF:-1,Live 24
-https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550432
 #EXTINF:-1,Live 25
-https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550439
 #EXTINF:-1,Live 26
-https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1,Live 27
-https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
 #EXTINF:-1,Live 28
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
+#EXTINF:-1,Live 29
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
+#EXTINF:-1,Live 30
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
+#EXTINF:-1,Live 31
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
+#EXTINF:-1,Live 32
+https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
+#EXTINF:-1,Live 33
+https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
+#EXTINF:-1,Live 34
+https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
+#EXTINF:-1,Live 35
+https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
+#EXTINF:-1,Live 36
+https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
+#EXTINF:-1,Live 37
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
