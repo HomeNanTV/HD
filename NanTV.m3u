@@ -154,42 +154,34 @@ https://mejarhosting.cfd/posttv1080p/ch05/master.m3u8
 #EXTINF:-1,Live 15
 https://mejarhosting.cfd/posttv1080p/ch06/master.m3u8
 #EXTINF:-1,Live 16
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222219.m3u8
-#EXTINF:-1,Live 17
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222220.m3u8
-#EXTINF:-1,Live 18
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222221.m3u8
-#EXTINF:-1,Live 19
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222222.m3u8
-#EXTINF:-1,Live 20
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222223.m3u8
-#EXTINF:-1,Live 21
-http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/222224.m3u8
-#EXTINF:-1,Live 22
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550439
-#EXTINF:-1,Live 23
+#EXTINF:-1,Live 17
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1,Live 24
+#EXTINF:-1,Live 18
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
-#EXTINF:-1,Live 25
+#EXTINF:-1,Live 19
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
-#EXTINF:-1,Live 26
+#EXTINF:-1,Live 20
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
-#EXTINF:-1,Live 27
+#EXTINF:-1,Live 21
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
-#EXTINF:-1,Live 28
+#EXTINF:-1,Live 22
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
-#EXTINF:-1,Live 29
+#EXTINF:-1,Live 23
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
-#EXTINF:-1,Live 30
+#EXTINF:-1,Live 24
 https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
-#EXTINF:-1,Live 31
+#EXTINF:-1,Live 25
 https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
-#EXTINF:-1,Live 32
+#EXTINF:-1,Live 26
 https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
-#EXTINF:-1,Live 33
+#EXTINF:-1,Live 27
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
-#EXTINF:-1,Live 34
+#EXTINF:-1,Live 28
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
-#EXTINF:-1,Live 35
+#EXTINF:-1,Live 29
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
+#EXTINF:-1,Live 30
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
+#EXTINF:-1,Live 31
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538786
