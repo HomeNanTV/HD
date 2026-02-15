@@ -1,221 +1,221 @@
 #EXTM3U
-#EXTINF:-1,السعودية
+#EXTINF:-1 group-title="Family", السعودية
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1,MBC KSA
+#EXTINF:-1 group-title="Family", MBC KSA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1,MBC USA
+#EXTINF:-1 group-title="Family", MBC USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1,MBC Drama KSA
+#EXTINF:-1 group-title="Family", MBC Drama KSA
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/424
-#EXTINF:-1,MBC Drama USA
+#EXTINF:-1 group-title="Family", MBC Drama USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1,MBC + Drama
+#EXTINF:-1 group-title="Family", MBC + Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1,خليجية
+#EXTINF:-1 group-title="Family", خليجية
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/59206
-#EXTINF:-1,SBC
+#EXTINF:-1 group-title="Family", SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1,MBC MASR
+#EXTINF:-1 group-title="Family", MBC MASR
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1,MBC MASR USA
+#EXTINF:-1 group-title="Family", MBC MASR USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1,MBC Masr 2
+#EXTINF:-1 group-title="Family", MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1,طاش
+#EXTINF:-1 group-title="Family", طاش
 https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_1.m3u8
-#EXTINF:-1,باب الحارة
+#EXTINF:-1 group-title="Family", باب الحارة
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-#EXTINF:-1,Roya Drama
+#EXTINF:-1 group-title="Family", Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1,Jordan Drama
+#EXTINF:-1 group-title="Family", Jordan Drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:-1,Qatar
+#EXTINF:-1 group-title="Family", Qatar
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1,Qatar 2
+#EXTINF:-1 group-title="Family", Qatar 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1,AlRayyan
+#EXTINF:-1 group-title="Family", AlRayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1,AlRayyan Qadeim
+#EXTINF:-1 group-title="Family", AlRayyan Qadeim
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1,Kuwait
+#EXTINF:-1 group-title="Family", Kuwait
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1,Jordan
+#EXTINF:-1 group-title="Family", Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1,MBC 4
+#EXTINF:-1 group-title="Family", MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1,MBC 5
+#EXTINF:-1 group-title="Family", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1,Movies Thriller
+#EXTINF:-1 group-title="Family", Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1,Movies Action
+#EXTINF:-1 group-title="Family", Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1,Aflam
+#EXTINF:-1 group-title="Family", Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
-#EXTINF:-1,MBC Bollywood
+#EXTINF:-1 group-title="Family", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1,Roya Comedy
+#EXTINF:-1 group-title="Family", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1,Mix Hollywood
+#EXTINF:-1 group-title="Family", Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1,Roya Kitchen
+#EXTINF:-1 group-title="Family", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:-1,Spacetoon
+#EXTINF:-1 group-title="Family", Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1,Majid
+#EXTINF:-1 group-title="Family", Majid
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1,Roya Kids
+#EXTINF:-1 group-title="Family", Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1,Tom And Jerry
+#EXTINF:-1 group-title="Family", Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1,Tom & Jerry
+#EXTINF:-1 group-title="Family", Tom & Jerry
 http://tigeriptv.co:88/P1HBKZGZY4/FZI0ABRTUS/229741
-#EXTINF:-1,Anime
+#EXTINF:-1 group-title="Family", Anime
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Family", National Geographic
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1,Asharq Discovery
+#EXTINF:-1 group-title="Family", Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1,Al Arabiya
+#EXTINF:-1 group-title="Family", Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1,Al Hadath
+#EXTINF:-1 group-title="Family", Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1,Al Ekharia
+#EXTINF:-1 group-title="Family", Al Ekharia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1,Al Jazeera
+#EXTINF:-1 group-title="Family", Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1,Al Jazeera Mobasher
+#EXTINF:-1 group-title="Family", Al Jazeera Mobasher
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1,alarabiya aprograms
+#EXTINF:-1 group-title="Family", alarabiya aprograms
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1,Makkah live
+#EXTINF:-1 group-title="Family", Makkah live
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1,Madinah Live
+#EXTINF:-1 group-title="Family", Madinah Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1,Makkah
+#EXTINF:-1 group-title="Family", Makkah
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1,iqraa Quran
+#EXTINF:-1 group-title="Family", iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1,AlMajd Quran
+#EXTINF:-1 group-title="Family", AlMajd Quran
 http://m3.iptv.cab/IPTV11111AAA0388/muqnGk6Rxq/2349
-#EXTINF:-1,TRT 1
+#EXTINF:-1 group-title="Family", TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1,TRT AVAZ
+#EXTINF:-1 group-title="Family", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1 group-title="Family", ATV
 http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF:-1,Canal D
+#EXTINF:-1 group-title="Family", Canal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1,English Club
+#EXTINF:-1 group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1,Home.Made.Nation
+#EXTINF:-1 group-title="Family", Home.Made.Nation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d04cbed-3ba0-4e3b-9baf-dc4eb838fa1c
-#EXTINF:-1,Homes Under Hammer
+#EXTINF:-1 group-title="Family", Homes Under Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,At Home With Family Handyman
+#EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1,Tennis
+#EXTINF:-1 group-title="Family", Tennis
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1,Tennis +
+#EXTINF:-1 group-title="Family", Tennis +
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1,Horse TV
+#EXTINF:-1 group-title="Family", Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1,Horse and Country
+#EXTINF:-1 group-title="Family", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Goal Zone
+#EXTINF:-1 group-title="Family", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-#EXTINF:-1,Live 1
+#EXTINF:-1 group-title="Live", Live 1
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67338.m3u8
-#EXTINF:-1,Live 2
+#EXTINF:-1 group-title="Live", Live 2
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67339.m3u8
-#EXTINF:-1,Live 3
+#EXTINF:-1 group-title="Live", Live 3
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67340.m3u8
-#EXTINF:-1,Live 4
+#EXTINF:-1 group-title="Live", Live 4
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67341.m3u8
-#EXTINF:-1,Live 5
+#EXTINF:-1 group-title="Live", Live 5
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67342.m3u8
-#EXTINF:-1,Live 6
+#EXTINF:-1 group-title="Live", Live 6
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67343.m3u8
-#EXTINF:-1,Live 7
+#EXTINF:-1 group-title="Live", Live 7
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
-#EXTINF:-1,Live 8
+#EXTINF:-1 group-title="Live", Live 8
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
-#EXTINF:-1,Live 9
+#EXTINF:-1 group-title="Live", Live 9
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67346.m3u8
-#EXTINF:-1,Live 10
+#EXTINF:-1 group-title="Live", Live 10
 https://mejarhosting.cfd/posttv1080p/ch01/stream_0.m3u8
-#EXTINF:-1,Live 11
+#EXTINF:-1 group-title="Live", Live 11
 https://mejarhosting.cfd/posttv1080p/ch02/stream_0.m3u8
-#EXTINF:-1,Live 12
+#EXTINF:-1 group-title="Live", Live 12
 https://mejarhosting.cfd/posttv1080p/ch03/stream_0.m3u8
-#EXTINF:-1,Live 13
+#EXTINF:-1 group-title="Live", Live 13
 https://mejarhosting.cfd/posttv1080p/ch04/stream_0.m3u8
-#EXTINF:-1,Live 14
+#EXTINF:-1 group-title="Live", Live 14
 https://mejarhosting.cfd/posttv1080p/ch05/stream_0.m3u8
-#EXTINF:-1,Live 15
+#EXTINF:-1 group-title="Live", Live 15
 https://mejarhosting.cfd/posttv1080p/ch06/stream_0.m3u8
-#EXTINF:-1,Live 16
+#EXTINF:-1 group-title="Live", Live 16
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16011/550439
-#EXTINF:-1,Live 17
+#EXTINF:-1 group-title="Live",bLive 17
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1,Live 18
+#EXTINF:-1 group-title="Live", Live 18
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
-#EXTINF:-1,Live 19
+#EXTINF:-1 group-title="Live", Live 19
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
-#EXTINF:-1,Live 20
+#EXTINF:-1 group-title="Live", Live 20
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
-#EXTINF:-1,Live 21
+#EXTINF:-1 group-title="Live", Live 21
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
-#EXTINF:-1,Live 22
+#EXTINF:-1 group-title="Live", Live 22
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
-#EXTINF:-1,Live 23
+#EXTINF:-1 group-title="Live", Live 23
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
-#EXTINF:-1,Live 24
+#EXTINF:-1 group-title="Live", Live 24
 https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
-#EXTINF:-1,Live 25
+#EXTINF:-1 group-title="Live", Live 25
 https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
-#EXTINF:-1,Live 26
+#EXTINF:-1 group-title="Live",Live 26
 https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
-#EXTINF:-1,Live 27
+#EXTINF:-1 group-title="Live", Live 27
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
-#EXTINF:-1,Live 28
+#EXTINF:-1 group-title="Live", Live 28
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
-#EXTINF:-1,Live 29
+#EXTINF:-1 group-title="Live",bLive 29
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
-#EXTINF:-1,Live 30
+#EXTINF:-1 group-title="Live", Live 30
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
-#EXTINF:-1,Live 31
+#EXTINF:-1 group-title="Live",bLive 31
 http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/196157.m3u8
-#EXTINF:-1,Live 32
+#EXTINF:-1 group-title="Live", Live 32
 http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/196158.m3u8
-#EXTINF:-1,Live 33
+#EXTINF:-1 group-title="Live", Live 33
 http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 34
+#EXTINF:-1 group-title="Live", Live 34
 http://135.125.109.73:9000/Alwan%20Sport%202%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 35
+#EXTINF:-1 group-title="Live", Live 35
 http://135.125.109.73:9000/Alwan%20Sport%203%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 36
+#EXTINF:-1 group-title="Live", Live 36
 http://135.125.109.73:9000/Alwan%20Sport%204%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 37
+#EXTINF:-1 group-title="Live", Live 37
 http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 38
+#EXTINF:-1 group-title="Live", Live 38
 http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 39
+#EXTINF:-1 group-title="Live", Live 39
 http://135.125.109.73:9000/Alwan%20Sport%207%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 40
+#EXTINF:-1 group-title="Live", Live 40
 http://135.125.109.73:9000/Alwan%20Sport%208%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 41
+#EXTINF:-1 group-title="Live", Live 41
 http://135.125.109.73:9000/Alwan%20Sport%209%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 42
+#EXTINF:-1 group-title="Live", Live 42
 http://135.125.109.73:9000/Alwan%20Sport%210%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Live 43
+#EXTINF:-1 group-title="Live", Live 43
 http://135.125.109.73:9000/Bein%20Sports%201%204K%20QA_.m3u8
-#EXTINF:-1,Live 44
+#EXTINF:-1 group-title="Live", Live 44
 http://135.125.109.73:9000/Bein%20Sports%202%204K%20QA_.m3u8
-#EXTINF:-1,Live 45
+#EXTINF:-1 group-title="Live", Live 45
 http://135.125.109.73:9000/Bein%20Sports%203%204K%20QA_.m3u8
-#EXTINF:-1,Live 46
+#EXTINF:-1 group-title="Live", Live 46
 http://135.125.109.73:9000/Bein%20Sports%204%204K%20QA_.m3u8
-#EXTINF:-1,Live 47
+#EXTINF:-1 group-title="Live", Live 47
 http://135.125.109.73:9000/Bein%20Sports%205%204K%20QA_.m3u8
-#EXTINF:-1,Live 48
+#EXTINF:-1 group-title="Live", Live 48
 http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
