@@ -113,6 +113,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Family", Goal Zone
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Family", Tennis
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="Family", Tennis +
@@ -121,8 +123,6 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Family", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Family", Goal Zone
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Live", Live 1
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67338.m3u8
 #EXTINF:-1 group-title="Live", Live 2
@@ -154,68 +154,66 @@ https://mejarhosting.cfd/posttv1080p/ch05/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 15
 https://mejarhosting.cfd/posttv1080p/ch06/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 16
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16011/550439
-#EXTINF:-1 group-title="Live",bLive 17
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 18
+#EXTINF:-1 group-title="Live", Live 17
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 19
+#EXTINF:-1 group-title="Live", Live 18
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 20
+#EXTINF:-1 group-title="Live", Live 19
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 21
+#EXTINF:-1 group-title="Live", Live 20
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 22
+#EXTINF:-1 group-title="Live", Live 21
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 23
+#EXTINF:-1 group-title="Live", Live 22
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
-#EXTINF:-1 group-title="Live", Live 24
+#EXTINF:-1 group-title="Live", Live 23
 https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
-#EXTINF:-1 group-title="Live", Live 25
+#EXTINF:-1 group-title="Live", Live 24
 https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
-#EXTINF:-1 group-title="Live",Live 26
+#EXTINF:-1 group-title="Live", Live 25
 https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
-#EXTINF:-1 group-title="Live", Live 27
+#EXTINF:-1 group-title="Live", Live 26
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
-#EXTINF:-1 group-title="Live", Live 28
+#EXTINF:-1 group-title="Live", Live 27
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
-#EXTINF:-1 group-title="Live",bLive 29
+#EXTINF:-1 group-title="Live", Live 28
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
-#EXTINF:-1 group-title="Live", Live 30
+#EXTINF:-1 group-title="Live", Live 29
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
-#EXTINF:-1 group-title="Live",bLive 31
+#EXTINF:-1 group-title="Live", Live 30
 http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/196157.m3u8
-#EXTINF:-1 group-title="Live", Live 32
+#EXTINF:-1 group-title="Live", Live 31
 http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/196158.m3u8
-#EXTINF:-1 group-title="Live", Live 33
+#EXTINF:-1 group-title="Live", Live 32
 http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 34
+#EXTINF:-1 group-title="Live", Live 33
 http://135.125.109.73:9000/Alwan%20Sport%202%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 35
+#EXTINF:-1 group-title="Live", Live 34
 http://135.125.109.73:9000/Alwan%20Sport%203%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 36
+#EXTINF:-1 group-title="Live", Live 35
 http://135.125.109.73:9000/Alwan%20Sport%204%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 37
+#EXTINF:-1 group-title="Live", Live 36
 http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 38
+#EXTINF:-1 group-title="Live", Live 37
 http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 39
+#EXTINF:-1 group-title="Live", Live 38
 http://135.125.109.73:9000/Alwan%20Sport%207%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 40
+#EXTINF:-1 group-title="Live", Live 39
 http://135.125.109.73:9000/Alwan%20Sport%208%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 41
+#EXTINF:-1 group-title="Live", Live 40
 http://135.125.109.73:9000/Alwan%20Sport%209%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 42
+#EXTINF:-1 group-title="Live", Live 41
 http://135.125.109.73:9000/Alwan%20Sport%210%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 group-title="Live", Live 43
+#EXTINF:-1 group-title="Live", Live 42
 http://135.125.109.73:9000/Bein%20Sports%201%204K%20QA_.m3u8
-#EXTINF:-1 group-title="Live", Live 44
+#EXTINF:-1 group-title="Live", Live 43
 http://135.125.109.73:9000/Bein%20Sports%202%204K%20QA_.m3u8
-#EXTINF:-1 group-title="Live", Live 45
+#EXTINF:-1 group-title="Live", Live 44
 http://135.125.109.73:9000/Bein%20Sports%203%204K%20QA_.m3u8
-#EXTINF:-1 group-title="Live", Live 46
+#EXTINF:-1 group-title="Live", Live 45
 http://135.125.109.73:9000/Bein%20Sports%204%204K%20QA_.m3u8
-#EXTINF:-1 group-title="Live", Live 47
+#EXTINF:-1 group-title="Live", Live 46
 http://135.125.109.73:9000/Bein%20Sports%205%204K%20QA_.m3u8
-#EXTINF:-1 group-title="Live", Live 48
+#EXTINF:-1 group-title="Live", Live 47
 http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
