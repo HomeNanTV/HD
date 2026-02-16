@@ -124,17 +124,17 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Family", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live", Live 1
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67338.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 2
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67339.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 3
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67340.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 4
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67341.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 5
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67342.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 6
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67343.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 7
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
 #EXTINF:-1 group-title="Live", Live 8
@@ -154,17 +154,17 @@ https://mejarhosting.cfd/posttv1080p/ch05/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 15
 https://mejarhosting.cfd/posttv1080p/ch06/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 16
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67338.m3u8
 #EXTINF:-1 group-title="Live", Live 17
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67339.m3u8
 #EXTINF:-1 group-title="Live", Live 18
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67340.m3u8
 #EXTINF:-1 group-title="Live", Live 19
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67341.m3u8
 #EXTINF:-1 group-title="Live", Live 20
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67342.m3u8
 #EXTINF:-1 group-title="Live", Live 21
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67343.m3u8
 #EXTINF:-1 group-title="Live", Live 22
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
 #EXTINF:-1 group-title="Live", Live 23
