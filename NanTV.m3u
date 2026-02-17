@@ -142,20 +142,24 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
 #EXTINF:-1 group-title="Live", Live 9
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
 #EXTINF:-1 group-title="Live", Live 10
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
-#EXTINF:-1 group-title="Live", Live 8
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
-#EXTINF:-1 group-title="Live", Live 9
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67346.m3u8
-#EXTINF:-1 group-title="Live", Live 10
-https://mejarhosting.cfd/posttv1080p/ch01/stream_0.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
 #EXTINF:-1 group-title="Live", Live 11
-https://mejarhosting.cfd/posttv1080p/ch02/stream_0.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
 #EXTINF:-1 group-title="Live", Live 12
-https://mejarhosting.cfd/posttv1080p/ch03/stream_0.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
 #EXTINF:-1 group-title="Live", Live 13
-https://mejarhosting.cfd/posttv1080p/ch04/stream_0.m3u8
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
 #EXTINF:-1 group-title="Live", Live 14
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67346.m3u8
+#EXTINF:-1 group-title="Live", Live 15
+https://mejarhosting.cfd/posttv1080p/ch01/stream_0.m3u8
+#EXTINF:-1 group-title="Live", Live 16
+https://mejarhosting.cfd/posttv1080p/ch02/stream_0.m3u8
+#EXTINF:-1 group-title="Live", Live 17
+https://mejarhosting.cfd/posttv1080p/ch03/stream_0.m3u8
+#EXTINF:-1 group-title="Live", Live 18
+https://mejarhosting.cfd/posttv1080p/ch04/stream_0.m3u8
+#EXTINF:-1 group-title="Live", Live 19
 https://mejarhosting.cfd/posttv1080p/ch05/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 15
 https://mejarhosting.cfd/posttv1080p/ch06/stream_0.m3u8
@@ -183,10 +187,6 @@ https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
 #EXTINF:-1 group-title="Live", Live 27
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
-#EXTINF:-1 group-title="Live", Live 28
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
-#EXTINF:-1 group-title="Live", Live 29
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
 #EXTINF:-1 group-title="Live", Live 30
 http://ibo.lynxiptv.com/760495572073/4ZWyUoO4zA/196157.m3u8
 #EXTINF:-1 group-title="Live", Live 31
