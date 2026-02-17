@@ -233,3 +233,6 @@ http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
 http://lion20.top:8080/live/2171855479556216/6019132685779108/358222.ts
 #EXTINF:-1 group-title="Live", Live 55
 https://cdn1-mejarhosting.cfd/2025-posttv1080p-ch01/stream_0_1547.ts
+#EXTINF:-1 group-title="Live", Live 56
+http://sportk.online/BEIN-SPO-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 57
