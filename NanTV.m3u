@@ -136,6 +136,12 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 6
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 7
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
+#EXTINF:-1 group-title="Live", Live 8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
+#EXTINF:-1 group-title="Live", Live 9
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
+#EXTINF:-1 group-title="Live", Live 10
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
 #EXTINF:-1 group-title="Live", Live 8
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
@@ -221,9 +227,3 @@ http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
 http://lion20.top:8080/live/2171855479556216/6019132685779108/358222.ts
 #EXTINF:-1 group-title="Live", Live 49
 https://cdn1-mejarhosting.cfd/2025-posttv1080p-ch01/stream_0_1547.ts
-#EXTINF:-1 group-title="Live", Live 50
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
-#EXTINF:-1 group-title="Live", Live 51
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
-#EXTINF:-1 group-title="Live", Live 52
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
