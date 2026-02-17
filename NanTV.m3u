@@ -124,11 +124,11 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Family", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live", Live 1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
 #EXTINF:-1 group-title="Live", Live 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
 #EXTINF:-1 group-title="Live", Live 3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
 #EXTINF:-1 group-title="Live", Live 4
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 5
@@ -136,21 +136,21 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 6
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 7
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 8
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 9
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 10
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
 #EXTINF:-1 group-title="Live", Live 11
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
 #EXTINF:-1 group-title="Live", Live 12
-http://109.71.252.138/LDSPORTYUSFIPTV/index.m3u8
+http://109.71.252.138/nrtsport/index.m3u8
 #EXTINF:-1 group-title="Live", Live 13
 http://109.71.252.138/asterasportyusfiptv/index.m3u8
 #EXTINF:-1 group-title="Live", Live 14
-http://109.71.252.138/nrtsport/index.m3u8
+http://109.71.252.138/LDSPORTYUSFIPTV/index.m3u8
 #EXTINF:-1 group-title="Live", Live 15
 http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
 #EXTINF:-1 group-title="Live", Live 16
