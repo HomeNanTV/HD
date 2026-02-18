@@ -228,12 +228,12 @@ http://135.125.109.73:9000/Alwan%20Sport%209%20FHD%20VIP%20Arb_.m3u8
 #EXTINF:-1 group-title="Live", Live 51
 http://135.125.109.73:9000/Alwan%20Sport%210%20FHD%20VIP%20Arb_.m3u8
 #EXTINF:-1 group-title="Live", Live 52
-http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641606.ts
+http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641605.ts
 #EXTINF:-1 group-title="Live", Live 53
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641607.ts
 #EXTINF:-1 group-title="Live", Live 54
-#EXTINF:-1http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641608.ts
- group-title="Live", Live 55
+http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641608.ts
+group-title="Live", Live 55
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641609.ts
 #EXTINF:-1 group-title="Live", Live 56
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641610.ts
@@ -242,3 +242,6 @@ http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641611.ts
 #EXTINF:-1 group-title="Live", Live 58
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641612.ts
 #EXTINF:-1 group-title="Live", Live 59
+http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641613.ts
+#EXTINF:-1 group-title="Live", Live 59
+http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641614.ts
