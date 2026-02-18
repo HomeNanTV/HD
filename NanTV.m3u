@@ -13,6 +13,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="Family", خليجية
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/59206
+#EXTINF:-1 group-title="Family", ذكريات 
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/46509
 #EXTINF:-1 group-title="Family", SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Family", MBC MASR
