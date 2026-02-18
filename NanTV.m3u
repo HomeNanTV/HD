@@ -146,8 +146,10 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 10
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
 #EXTINF:-1 group-title="Live", Live 11
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538781
 #EXTINF:-1 group-title="Live", Live 12
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
+#EXTINF:-1 group-title="Live", Live 13
 http://sportk.online/BEIN-SPO-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 13
 http://sportk.online/BEIN-SPO-2/tracks-v1a1/mono.m3u8
