@@ -129,6 +129,8 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Family", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Live", Live 
+http://8ksa.lol:80/81449099087446ksa/16756521593236/589072
 #EXTINF:-1 group-title="Live", Live 1
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
 #EXTINF:-1 group-title="Live", Live 2
