@@ -243,10 +243,22 @@ http://8ksa.lol:80/81449099087446ksa/16756521593236/634952
 http://8ksa.lol:80/81449099087446ksa/16756521593236/634968
 #EXTINF:-1 group-title="Sport", Starz Sports 3
 http://8ksa.lol:80/81449099087446ksa/16756521593236/634958
-#EXTINF:-1 group-title="Sport", AD Sport 1
+#EXTINF:-1 group-title="Sport", AD 1
 http://8ksa.lol:80/81449099087446ksa/16756521593236/634961
-#EXTINF:-1 group-title="Sport", AD Sport 2
+#EXTINF:-1 group-title="Sport", AD 2
 http://8ksa.lol:80/81449099087446ksa/16756521593236/634962
+#EXTINF:-1 group-title="Sport", Alwan 1
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568778
+#EXTINF:-1 group-title="Sport", Alwan 2
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568779
+#EXTINF:-1 group-title="Sport", Alwan 3
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568780
+#EXTINF:-1 group-title="Sport", Alwan 4
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568781
+#EXTINF:-1 group-title="Sport", Alwan 5
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568782
+#EXTINF:-1 group-title="Sport", Alwan 6
+http://8ksa.lol:80/81449099087446ksa/16756521593236/568783
 #EXTINF:-1 group-title="Live", Live 1
 https://cdn3-mejarhosting.cfd/2025-posttv1080p-ch01/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 2
@@ -333,5 +345,3 @@ https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
 https://mejarhosting.cfd/2025-posttv1080p-ch01/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 43
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 44
-http://8ksa.lol:80/81449099087446ksa/16756521593236/639119
