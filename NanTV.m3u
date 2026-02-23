@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="Family", السعودية
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 group-title="Family", MBC KSA
-https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="Family", MBC USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 group-title="Family", MBC Drama KSA
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/424
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/index.m3u8
 #EXTINF:-1 group-title="Family", MBC Drama USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1 group-title="Family", MBC + Drama
