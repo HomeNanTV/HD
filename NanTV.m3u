@@ -31,6 +31,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 group-title="Family", Jordan Drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:-1 group-title="Family", MBC ACTION 
+http://yusfiptv.ddns.net:8880/318845136093/148173696307/426
 #EXTINF:-1 group-title="Family", Qatar
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Family", Qatar 2
