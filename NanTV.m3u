@@ -158,39 +158,27 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 12
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 13
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/66
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 14
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/350213
+
 #EXTINF:-1 group-title="Live", Live 15
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/96396
+
 #EXTINF:-1 group-title="Live", Live 16
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538782
+
 #EXTINF:-1 group-title="Live", Live 17
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538781
+
 #EXTINF:-1 group-title="Live", Live 18
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538785
+
 #EXTINF:-1 group-title="Live", Live 19
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/538786
-#EXTINF:-1 group-title="Live", Live 20
-http://sportk.online/BEIN-SPO-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 21
-http://sportk.online/BEIN-SPO-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 22
-http://ibo.lynxiptv.com/232978944953/jcj7t1pzfd6r/196157
-#EXTINF:-1 group-title="Live", Live 23
-http://ibo.lynxiptv.com/232978944953/jcj7t1pzfd6r/196158
-#EXTINF:-1 group-title="Live", Live 24
-http://ibo.lynxiptv.com/232978944953/jcj7t1pzfd6r/196171
-#EXTINF:-1 group-title="Live", Live 25
-http://109.71.252.138/asterasportyusfiptv/index.m3u8
-#EXTINF:-1 group-title="Live", Live 26
-http://109.71.252.138/LDSPORTYUSFIPTV/index.m3u8
-#EXTINF:-1 group-title="Live", Live 27
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67344.m3u8
-#EXTINF:-1 group-title="Live", Live 28
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67345.m3u8
-#EXTINF:-1 group-title="Live", Live 29
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67346.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Live", Live 30
 https://mejarhosting.cfd/posttv1080p/ch01/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 31
@@ -218,7 +206,7 @@ https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
 #EXTINF:-1 group-title="Live", Live 42
 https://mejarhosting.cfd/2025-posttv1080p-ch01/stream_0.m3u8
 #EXTINF:-1 group-title="Live", Live 43
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
+
 #EXTINF:-1 group-title="Sport", beIN 4K
 http://8ksa.lol:80/81449099087446ksa/16756521593236/445375
 #EXTINF:-1 group-title="Sport", beIN 4K+
