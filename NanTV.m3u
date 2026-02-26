@@ -160,53 +160,51 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 13
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 14
-
+http://sportkn.store/THMANYH--1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 15
-
+http://sportkn.store/THMANYH-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 16
-
+http://sportkn.store/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 17
-
+http://sportkn.store/THMANYH-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 18
-
+http://sportkn.store/THMANYH-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 19
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Live", Live 30
+http://sportkn.store/THMANYH--3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 20
+http://sportkn.store/BEIN-SPO1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 21
+http://sportkn.store/BEIN-SPO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 22
+http://sportkn.store/BEIN-SPO3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 23
+http://sportkn.store/BEIN-SPO4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 24
 https://mejarhosting.cfd/posttv1080p/ch01/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 31
+#EXTINF:-1 group-title="Live", Live 25
 https://mejarhosting.cfd/posttv1080p/ch02/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 32
+#EXTINF:-1 group-title="Live", Live 26
 https://mejarhosting.cfd/posttv1080p/ch03/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 33
+#EXTINF:-1 group-title="Live", Live 27
 https://mejarhosting.cfd/posttv1080p/ch04/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 34
+#EXTINF:-1 group-title="Live", Live 28
 https://mejarhosting.cfd/posttv1080p/ch05/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 35
+#EXTINF:-1 group-title="Live", Live 29
 https://mejarhosting.cfd/posttv1080p/ch06/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 36
+#EXTINF:-1 group-title="Live", Live 30
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
-#EXTINF:-1 group-title="Live", Live 37
+#EXTINF:-1 group-title="Live", Live 31
 https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
-#EXTINF:-1 group-title="Live", Live 38
+#EXTINF:-1 group-title="Live", Live 32
 https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
-#EXTINF:-1 group-title="Live", Live 39
+#EXTINF:-1 group-title="Live", Live 33
 https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
-#EXTINF:-1 group-title="Live", Live 40
+#EXTINF:-1 group-title="Live", Live 34
 https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
-#EXTINF:-1 group-title="Live", Live 41
+#EXTINF:-1 group-title="Live", Live 35
 https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
-#EXTINF:-1 group-title="Live", Live 42
+#EXTINF:-1 group-title="Live", Live 36
 https://mejarhosting.cfd/2025-posttv1080p-ch01/stream_0.m3u8
-#EXTINF:-1 group-title="Live", Live 43
-
 #EXTINF:-1 group-title="Sport", beIN 4K
 http://8ksa.lol:80/81449099087446ksa/16756521593236/445375
 #EXTINF:-1 group-title="Sport", beIN 4K+
