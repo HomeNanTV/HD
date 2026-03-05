@@ -147,24 +147,6 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 7
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 8
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510908&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 9
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510909&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 10
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510910&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 11
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510911&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 12
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510912&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 13
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510913&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 14
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510914&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 15
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510915&extension=m3u8
-#EXTINF:-1 group-title="Live", Live 16
-http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510916&extension=m3u8
 #EXTINF:-1 group-title="Live", Live 17
 https://mejarhosting.cfd/segments/post1-1080p/index.m3u8
 #EXTINF:-1 group-title="Live", Live 18
@@ -179,24 +161,11 @@ https://mejarhosting.cfd/segments/post5-1080p/index.m3u8
 https://mejarhosting.cfd/segments/post6-1080p/index.m3u8
 #EXTINF:-1 group-title="Live", Live 23
 http://sportkn.store/THMANYH--1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 24
-http://sportkn.store/THMANYH-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 25
 http://sportkn.store/THMANYH--2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 26
-http://sportkn.store/THMANYH-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 27
 http://sportkn.store/THMANYH-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 28
-http://sportkn.store/THMANYH--3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 29
-http://sportkn.store/BEIN-SPO1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 30
-http://sportkn.store/BEIN-SPO2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 31
-http://sportkn.store/BEIN-SPO3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 32
-http://sportkn.store/BEIN-SPO4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport", beIN 1
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589072
 #EXTINF:-1 group-title="Sport", beIN 1
