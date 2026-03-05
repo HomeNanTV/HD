@@ -165,7 +165,14 @@ http://sportkn.store/THMANYH--1/tracks-v1a1/mono.m3u8
 http://sportkn.store/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 27
 http://sportkn.store/THMANYH-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Live 28
+#EXTINF:-1 group-title="Live", Live 27
+http://sportkn.store/BEIN-SPO---2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 27
+http://sportkn.store/BEIN-SPO---3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 27
+http://sportkn.store/BEIN-55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", Live 27
+http://sportkn.store/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport", beIN 1
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589072
 #EXTINF:-1 group-title="Sport", beIN 1
