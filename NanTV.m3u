@@ -164,19 +164,17 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 15
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 16
-https://joaanksa.com/bein/bein3.php
+https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 17
-http://ru02.sh365.org/6446/mpegts?token=Dubx4Vi2wQYxbY
+https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 18
-http://ru02.sh365.org/6451/mpegts?token=Dubx4Vi2wQYxbY
+https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 19
-http://ru02.sh365.org/6447/mpegts?token=Dubx4Vi2wQYxbY
+https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 20
-https://on-tv.site/S4.html
+https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 21
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QxfqwYNssN03oe2YVUdj91OhHjBUMWT_CZHkQDB44gKzyn3CBHjCsdE-3dnxSGr8CBro65-evmM3FCYLVj1msg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 group-title="Live", Live 22
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/_0DjmwLUzXI1iY0Dy8x8GSi4gSQA9wpIEn4BFrIkeqkJ4MUSF9U5rocVj6gBqiQ7I7AZ-iOAFcWXzKEpUMDfAA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
 #EXTINF:-1 group-title="Sport", beIN 1
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589072
 #EXTINF:-1 group-title="Sport", beIN 1
