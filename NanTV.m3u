@@ -191,6 +191,12 @@ https://cdn3-mejarhosting.cfd/ftv5_1080p/index.mpd
 https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 28
 https://cdn3-mejarhosting.cfd/ftv7_1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 29
+http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510908&extension=m3u8
+#EXTINF:-1 group-title="Live", Live 30
+http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510909&extension=m3u8
+#EXTINF:-1 group-title="Live", Live 31
+http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=510910&extension=m3u8
 #EXTINF:-1 group-title="Sport", beIN 1
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589072
 #EXTINF:-1 group-title="Sport", beIN 1
@@ -230,9 +236,9 @@ http://8ksa.lol:80/81449099087446ksa/16756521593236/439162
 #EXTINF:-1 group-title="Sport", beIN 7
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589078
 #EXTINF:-1 group-title="Sport", beIN 7
-http://8ksa.lol:80/81449099087446ksa/16756521593236/445382
+http://8ksa.lol80/81449099087446ksa/16756521593236/445382
 #EXTINF:-1 group-title="Sport", beIN 7
-http://8ksa.lol:80/81449099087446ksa/16756521593236/439163
+http//8ksa.lol:80/81449099087446ksa/16756521593236/439163
 #EXTINF:-1 group-title="Sport", beIN 8
 http://8ksa.lol:80/81449099087446ksa/16756521593236/589079
 #EXTINF:-1 group-title="Sport", beIN 8
@@ -329,5 +335,5 @@ http://8ksa.lol:80/81449099087446ksa/16756521593236/602937
 http://8ksa.lol:80/81449099087446ksa/16756521593236/602938
 #EXTINF:-1 group-title="Sport", Diwan 3
 http://8ksa.lol:80/81449099087446ksa/16756521593236/602939
-#EXTINF:-1,StarzPlay Stream
+#EXTINF:-1 group-title="Sport", Starz Play 1
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
