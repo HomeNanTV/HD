@@ -166,18 +166,20 @@ https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 21
 https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 22
-https://cdn3-mejarhosting.cfd/ftv1_1080p/index.mpd
+http://sportkn.store/THMANYH--1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Live 23
-https://cdn3-mejarhosting.cfd/ftv2_1080p/index.mpd
+https://cdn3-mejarhosting.cfd/ftv1_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 24
-https://cdn3-mejarhosting.cfd/ftv3_1080p/index.mpd
+https://cdn3-mejarhosting.cfd/ftv2_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 25
-https://cdn3-mejarhosting.cfd/ftv4_1080p/index.mpd
+https://cdn3-mejarhosting.cfd/ftv3_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 26
-https://cdn3-mejarhosting.cfd/ftv5_1080p/index.mpd
+https://cdn3-mejarhosting.cfd/ftv4_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 27
-https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
+https://cdn3-mejarhosting.cfd/ftv5_1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 28
+https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 29
 https://cdn3-mejarhosting.cfd/ftv7_1080p/index.mpd
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
