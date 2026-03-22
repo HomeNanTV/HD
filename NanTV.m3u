@@ -166,20 +166,8 @@ https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 21
 https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
 #EXTINF:-1 group-title="Live", Live 22
-http://r11tv.com/live/M89754etty/H76533ettfg/587390.ts
-#EXTINF:-1 group-title="Live", Live 23
-http://r11tv.com/live/M89754etty/H76533ettfg/587391.ts
-#EXTINF:-1 group-title="Live", Live 24
-http://r11tv.com/live/M89754etty/H76533ettfg/587392.ts
-#EXTINF:-1 group-title="Live", Live 25
-http://r11tv.com/live/M89754etty/H76533ettfg/587393.ts
-#EXTINF:-1 group-title="Live", Live 26
-http://r11tv.com/live/M89754etty/H76533ettfg/587394.ts
-#EXTINF:-1 group-title="Live", Live 27
-http://r11tv.com/live/M89754etty/H76533ettfg/587395.ts
-#EXTINF:-1 group-title="Live", Live 28
 https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 29
+#EXTINF:-1 group-title="Live", Live 23
 https://cdn3-mejarhosting.cfd/ftv7_1080p/index.mpd
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
