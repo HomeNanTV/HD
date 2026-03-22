@@ -146,29 +146,25 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 11
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/ch11_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 12
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 13
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 14
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 15
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 16
 https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 17
+#EXTINF:-1 group-title="Live", Live 13
 https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 18
+#EXTINF:-1 group-title="Live", Live 14
 https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 19
+#EXTINF:-1 group-title="Live", Live 15
 https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 20
+#EXTINF:-1 group-title="Live", Live 16
 https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 21
+#EXTINF:-1 group-title="Live", Live 17
 https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 22
-https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 23
-https://cdn3-mejarhosting.cfd/ftv7_1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 18
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 19
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 20
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 21
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
