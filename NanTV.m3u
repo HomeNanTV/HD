@@ -11,10 +11,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1 group-title="Family", MBC + Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 group-title="Family", Khalejiya 
-http://8ksa.lol:80/81449099087446ksa/16756521593236/447410
-#EXTINF:-1 group-title="Family", Thikrayat
-http://8ksa.lol:80/81449099087446ksa/16756521593236/610505
 #EXTINF:-1 group-title="Family", SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Family", MBC MASR
@@ -55,14 +51,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="Family", Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 group-title="Family", Aflam +
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
 #EXTINF:-1 group-title="Family", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Family", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 group-title="Family", Raya
-http://yusfiptv.ddns.net:8880/318845136093/148173696307/375182
 #EXTINF:-1 group-title="Family", Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="Family", Mix Hollywood
