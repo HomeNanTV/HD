@@ -71,16 +71,10 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 group-title="Family", Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="Family", Majid
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Family", Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 group-title="Family", Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Family", Tom & Jerry
-http://tigeriptv.co:88/P1HBKZGZY4/FZI0ABRTUS/229741
-#EXTINF:-1 group-title="Family", Anime
-https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
 #EXTINF:-1 group-title="Family", National Geographic
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Family", Asharq Discovery
@@ -97,6 +91,8 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="Family", alarabiya aprograms
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 group-title="Family", Radio Quran
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 group-title="Family", Makkah live
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="Family", Madinah Live
@@ -105,16 +101,10 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="Family", iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 group-title="Family", AlMajd Quran
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/129854
-#EXTINF:-1 group-title="Family", Radio Quran
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 group-title="Family", TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 group-title="Family", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Family", ATV
-http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 group-title="Family", Canal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Family", English Club
@@ -146,39 +136,41 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 11
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/ch11_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 12
-https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 13
-https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 14
-https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 15
-https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 16
-https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 17
-https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 18
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 19
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 20
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 21
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 22
 http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
-#EXTINF:-1 group-title="Live", Live 23
+#EXTINF:-1 group-title="Live", Live 13
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
-#EXTINF:-1 group-title="Live", Live 24
+#EXTINF:-1 group-title="Live", Live 14
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
-#EXTINF:-1 group-title="Live", Live 25
+#EXTINF:-1 group-title="Live", Live 15
 http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
-#EXTINF:-1 group-title="Live", Live 26
+#EXTINF:-1 group-title="Live", Live 16
 http://starshare.net/live/Suryaaa/SURYAAAA/652311.ts
-#EXTINF:-1 group-title="Live", Live 27
+#EXTINF:-1 group-title="Live", Live 17
 http://starshare.net/live/Suryaaa/SURYAAAA/652312.ts
-#EXTINF:-1 group-title="Live", Live 28
+#EXTINF:-1 group-title="Live", Live 18
 http://starshare.net/live/Suryaaa/SURYAAAA/652313.ts
+#EXTINF:-1 group-title="Live", Live 19
+http://starshare.net/live/Suryaaa/SURYAAAA/652314.ts
+#EXTINF:-1 group-title="Live", Live 20
+https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 21
+https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 22
+https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 23
+https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 24
+https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 25
+https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
+#EXTINF:-1 group-title="Live", Live 26
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 27
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 28
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 29
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
