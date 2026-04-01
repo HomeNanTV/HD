@@ -163,6 +163,12 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 29
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
+#EXTINF:-1 group-title="Live", Live 30
+http://ksauae.xyz/live/462738737337/352672622626/358222.ts
+#EXTINF:-1 group-title="Live", Live 31
+http://ksauae.xyz/live/462738737337/352672622626/358223.ts
+#EXTINF:-1 group-title="Live", Live 32
+http://ksauae.xyz/live/462738737337/352672622626/358224.ts
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
