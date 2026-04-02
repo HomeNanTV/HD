@@ -105,6 +105,14 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Live", See Sport 1
+http://ksauae.xyz/live/462738737337/352672622626/358222.ts
+#EXTINF:-1 group-title="Live", See Sport 2
+http://ksauae.xyz/live/462738737337/352672622626/358223.ts
+#EXTINF:-1 group-title="Live", See Sport 3
+http://ksauae.xyz/live/462738737337/352672622626/358224.ts
+#EXTINF:-1 group-title="Live", Live 1
+
 #EXTINF:-1 group-title="Live", Live 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 2
@@ -163,12 +171,6 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 29
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 30
-http://ksauae.xyz/live/462738737337/352672622626/358222.ts
-#EXTINF:-1 group-title="Live", Live 31
-http://ksauae.xyz/live/462738737337/352672622626/358223.ts
-#EXTINF:-1 group-title="Live", Live 32
-http://ksauae.xyz/live/462738737337/352672622626/358224.ts
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
