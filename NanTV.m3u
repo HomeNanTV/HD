@@ -111,8 +111,10 @@ http://ksauae.xyz/live/462738737337/352672622626/358222.ts
 http://ksauae.xyz/live/462738737337/352672622626/358223.ts
 #EXTINF:-1 group-title="Live", See Sport 3
 http://ksauae.xyz/live/462738737337/352672622626/358224.ts
-#EXTINF:-1 group-title="Live", Live 1
-
+#EXTINF:-1 group-title="Live", LD Sport 
+http://ksauae.xyz/live/462738737337/352672622626/358229.ts
+#EXTINF:-1 group-title="Live", Dasinya Sport
+http://ksauae.xyz/live/462738737337/352672622626/358230.ts
 #EXTINF:-1 group-title="Live", Live 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 2
