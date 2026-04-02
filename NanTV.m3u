@@ -117,6 +117,16 @@ http://ksauae.xyz/live/462738737337/352672622626/358229.ts
 http://ksauae.xyz/live/462738737337/352672622626/358230.ts
 #EXTINF:-1 group-title="Live", Sima Sport
 http://ksauae.xyz/live/462738737337/352672622626/358236.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 1
+http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 2
+http://starshare.net/live/Suryaaa/SURYAAAA/652311.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 3
+http://starshare.net/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 4
+http://starshare.net/live/Suryaaa/SURYAAAA/652313.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 5
+http://starshare.net/live/Suryaaa/SURYAAAA/652314.ts
 #EXTINF:-1 group-title="Live", Live 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", Live 2
@@ -146,34 +156,24 @@ http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Live 14
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
 #EXTINF:-1 group-title="Live", Live 15
-http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
-#EXTINF:-1 group-title="Live", Live 16
-http://starshare.net/live/Suryaaa/SURYAAAA/652311.ts
-#EXTINF:-1 group-title="Live", Live 17
-http://starshare.net/live/Suryaaa/SURYAAAA/652312.ts
-#EXTINF:-1 group-title="Live", Live 18
-http://starshare.net/live/Suryaaa/SURYAAAA/652313.ts
-#EXTINF:-1 group-title="Live", Live 19
-http://starshare.net/live/Suryaaa/SURYAAAA/652314.ts
-#EXTINF:-1 group-title="Live", Live 20
 https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 21
+#EXTINF:-1 group-title="Live", Live 16
 https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 22
+#EXTINF:-1 group-title="Live", Live 17
 https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 23
+#EXTINF:-1 group-title="Live", Live 18
 https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 24
+#EXTINF:-1 group-title="Live", Live 19
 https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 25
+#EXTINF:-1 group-title="Live", Live 20
 https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 26
+#EXTINF:-1 group-title="Live", Live 21
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 27
+#EXTINF:-1 group-title="Live", Live 22
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 28
+#EXTINF:-1 group-title="Live", Live 23
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 29
+#EXTINF:-1 group-title="Live", Live 24
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
