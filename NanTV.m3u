@@ -167,48 +167,6 @@ http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Thmanyah 3
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
-#EXTINF:-1 group-title="Live", Live 1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 4
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 5
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 6
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 7
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/ch7_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/ch8_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 9
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/ch9_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 10
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 11
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/ch11_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 12
-https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 13
-https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 14
-https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 15
-https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 16
-https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 17
-https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
-#EXTINF:-1 group-title="Live", Live 18
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/ch12_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 19
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/ch13_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 20
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch14/ch14_1080.m3u8
-#EXTINF:-1 group-title="Live", Live 21
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch15/ch15_1080.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
