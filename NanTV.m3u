@@ -171,6 +171,8 @@ https://cdn3-mejarhosting.cfd/post4-1080p/index.m3u8
 https://cdn3-mejarhosting.cfd/post5-1080p/index.m3u8
 #EXTINF:-1 group-title="Live", POST SPORTS 6
 https://cdn3-mejarhosting.cfd/post6-1080p/index.m3u8
+#EXTINF:-1 group-title="Live", CAST X TV
+https://cdn3-mejarhosting.cfd/castx-fhd/index.m3u8
 #EXTINF:-1 group-title="Live", Thmanyah 1
 http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 #EXTINF:-1 group-title="Live", Thmanyah 2
