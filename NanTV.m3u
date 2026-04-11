@@ -203,6 +203,28 @@ https://cdn4-mejarhosting.cfd/ftv5_1080p/index.m3u8
 https://cdn4-mejarhosting.cfd/ftv6_1080p/index.m3u8
 #EXTINF:-1 group-title="Live", الفجر 7
 https://cdn4-mejarhosting.cfd/ftv7_1080p/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 1
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch1/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 2
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch2/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 3
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch3/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 4
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch4/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 5
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch5/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 6
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch6/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 7
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch7/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 8
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch8/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 9
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch9/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 10
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch10/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE 11
+https://stream.supertv.gg:3001/supertv/sport/stv2/ch11/adaptive.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
