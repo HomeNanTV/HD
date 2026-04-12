@@ -143,18 +143,6 @@ http://ksauae.xyz/live/462738737337/352672622626/433740.ts
 http://ksauae.xyz/live/462738737337/352672622626/433741.ts
 #EXTINF:-1 group-title="Live", ألوان الرياضية 10
 http://ksauae.xyz/live/462738737337/352672622626/433742.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 3
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237016.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 4
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237017.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 5
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237018.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 6
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237019.m3u8
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
@@ -174,9 +162,9 @@ http://starshare.net/live/Suryaaa/SURYAAAA/652317.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 9
 http://starshare.net/live/Suryaaa/SURYAAAA/652318.ts
 #EXTINF:-1 group-title="Live", POST SPORTS 1
-https://cdn3-mejarhosting.cfd/post1-1080p/index.m3u8
+https://cd4-mejarhosting.cfd/post1-1080p/index.m3u8
 #EXTINF:-1 group-title="Live", POST SPORTS 2
-https://cdn3-mejarhosting.cfd/post2-1080p/index.m3u8
+https://cdn3-mejarhosting.cfd/post2_1080p/index.m3u8
 #EXTINF:-1 group-title="Live", POST SPORTS 3
 https://cdn3-mejarhosting.cfd/post3-1080p/index.m3u8
 #EXTINF:-1 group-title="Live", POST SPORTS 4
@@ -201,20 +189,6 @@ http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Thmanyah 3
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
-#EXTINF:-1 group-title="Live", الفجر 1
-https://cdn3-mejarhosting.cfd/ftv1_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 2
-https://cdn3-mejarhosting.cfd/ftv2_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 3
-https://cdn3-mejarhosting.cfd/ftv3_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 4
-https://cdn3-mejarhosting.cfd/ftv4_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 5
-https://cdn3-mejarhosting.cfd/ftv5_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 6
-https://cdn3-mejarhosting.cfd/ftv6_1080p/index.m3u8
-#EXTINF:-1 group-title="Live", الفجر 7
-https://cdn3-mejarhosting.cfd/ftv7_1080p/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 1
 https://stream.supertv.gg:3001/supertv/sport/stv2/ch1/adaptive.m3u8
 #EXTINF:-1 group-title="Live", LIVE 2
