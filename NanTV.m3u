@@ -11,8 +11,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1 group-title="Family", MBC + Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 group-title="Family", Rotana Khaleejiya
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="Family", SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Family", MBC MASR
@@ -121,8 +119,6 @@ http://ksauae.xyz/live/462738737337/352672622626/358230.ts
 http://ksauae.xyz/live/462738737337/352672622626/358236.ts
 #EXTINF:-1 group-title="Live", LD CHECK SPORT
 http://ksauae.xyz/live/462738737337/352672622626/358238.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 1
-http://ksauae.xyz/live/462738737337/352672622626/418111.ts
 #EXTINF:-1 group-title="Live", ألوان الرياضيه 1
 http://ksauae.xyz/live/462738737337/352672622626/418112.ts
 #EXTINF:-1 group-title="Live", ألوان الرياضية 2
