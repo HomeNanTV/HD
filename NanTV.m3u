@@ -157,6 +157,8 @@ http://starshare.net/live/Suryaaa/SURYAAAA/652316.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/652317.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 9
 http://starshare.net/live/Suryaaa/SURYAAAA/652318.ts
+#EXTINF:-1 group-title="Live", beIN SPORTS 1
+http://78.157.215.17:8081/4kalctlanabbas/index.m3u8
 #EXTINF:-1 group-title="Live", Alkass 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 7
