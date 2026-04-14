@@ -209,6 +209,8 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
 #EXTINF:-1 group-title="Live", LIVE 11
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
+#EXTINF:-1 group-title="Live", LIVE Test
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.ts
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
