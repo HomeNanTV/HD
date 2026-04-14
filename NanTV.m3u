@@ -105,17 +105,17 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Live", see sport 1
+#EXTINF:-1 group-title="Live", SEE SPORT 1
 http://ksauae.xyz/live/462738737337/352672622626/358222.ts
-#EXTINF:-1 group-title="Live", see sport 2
+#EXTINF:-1 group-title="Live", SEE SPORT 2
 http://ksauae.xyz/live/462738737337/352672622626/358223.ts
-#EXTINF:-1 group-title="Live", see sport 3
+#EXTINF:-1 group-title="Live", SEE SPORT 3
 http://ksauae.xyz/live/462738737337/352672622626/358224.ts
 #EXTINF:-1 group-title="Live", LD SPORTS
 http://ksauae.xyz/live/462738737337/352672622626/358229.ts
-#EXTINF:-1 group-title="Live", DASINYA Sport
+#EXTINF:-1 group-title="Live", DASINYA SPORT
 http://ksauae.xyz/live/462738737337/352672622626/358230.ts
-#EXTINF:-1 group-title="Live", sima SPORTS
+#EXTINF:-1 group-title="Live", SIMA SPORTS
 http://ksauae.xyz/live/462738737337/352672622626/358236.ts
 #EXTINF:-1 group-title="Live", LD CHECK SPORT
 http://ksauae.xyz/live/462738737337/352672622626/358238.ts
@@ -169,8 +169,6 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 9
 https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
-#EXTINF:-1 group-title="Live", CAST X TV
-https://cdn3-mejarhosting.cfd/castx-fhd/index.m3u8
 #EXTINF:-1 group-title="Live", Thmanyah 1
 http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 #EXTINF:-1 group-title="Live", Thmanyah 2
