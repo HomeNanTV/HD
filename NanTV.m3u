@@ -79,30 +79,24 @@ http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Thmanyah 3
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
-#EXTINF:-1 group-title="Live", LIVE
-http://78.157.215.17:8081/4kalctlanabbas/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+http://afcocafot.com:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", LIVE 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
+http://afcocafot.com:8080/bn24k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
+http://afcocafot.com:8080/bn34k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 4
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
+http://afcocafot.com:8080/bn44k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 5
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
+http://afcocafot.com:8080/bn54k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 6
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
+http://afcocafot.com:8080/bn64k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 7
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
+http://afcocafot.com:8080/bn74k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8
+http://afcocafot.com:8080/bn84k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 9
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
-#EXTINF:-1 group-title="Live", LIVE 10
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
-#EXTINF:-1 group-title="Live", LIVE 11
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
+http://afcocafot.com:8080/bn94k/index.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
