@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live", LIVE test
+#EXTINF:-1 group-title="Live", ألوان الرياضية
 http://movies65365.org/live/967923087725/68347ab7dc205/514758.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
@@ -207,5 +207,3 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Family", jooj
-ws://107.151.141.226:60500/live?oid=2netflya217baec8ouc5h64k8jfp2bow
