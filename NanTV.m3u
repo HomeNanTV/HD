@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live", SEE SPORT 1
-http://ksauae.xyz/live/462738737337/352672622626/358222.ts
-#EXTINF:-1 group-title="Live", SEE SPORT 2
-http://ksauae.xyz/live/462738737337/352672622626/358223.ts
-#EXTINF:-1 group-title="Live", SEE SPORT 3
-http://ksauae.xyz/live/462738737337/352672622626/358224.ts
-#EXTINF:-1 group-title="Live", LD SPORTS
-http://ksauae.xyz/live/462738737337/352672622626/358229.ts
-#EXTINF:-1 group-title="Live", SIMA SPORTS
-http://ksauae.xyz/live/462738737337/352672622626/358236.ts
-#EXTINF:-1 group-title="Live", LD CHECK SPORT
-http://ksauae.xyz/live/462738737337/352672622626/358238.ts
-#EXTINF:-1 group-title="Live", DASINYA SPORT
-http://ksauae.xyz/live/462738737337/352672622626/358230.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 2
-http://ksauae.xyz/live/462738737337/352672622626/418114.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 3
-http://ksauae.xyz/live/462738737337/352672622626/418117.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 4
-http://ksauae.xyz/live/462738737337/352672622626/418120.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 5
-http://ksauae.xyz/live/462738737337/352672622626/418123.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 6
-http://ksauae.xyz/live/462738737337/352672622626/418126.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 7
-http://ksauae.xyz/live/462738737337/352672622626/433739.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 8
-http://ksauae.xyz/live/462738737337/352672622626/433740.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 9
-http://ksauae.xyz/live/462738737337/352672622626/433741.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 10
-http://ksauae.xyz/live/462738737337/352672622626/433742.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
@@ -77,6 +45,38 @@ http://starshare.net/live/Suryaaa/SURYAAAA/605097.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Thmanyah 3
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
+#EXTINF:-1 group-title="Live", SEE SPORT 1
+http://ksauae.xyz/live/462738737337/352672622626/358222.ts
+#EXTINF:-1 group-title="Live", SEE SPORT 2
+http://ksauae.xyz/live/462738737337/352672622626/358223.ts
+#EXTINF:-1 group-title="Live", SEE SPORT 3
+http://ksauae.xyz/live/462738737337/352672622626/358224.ts
+#EXTINF:-1 group-title="Live", LD SPORTS
+http://ksauae.xyz/live/462738737337/352672622626/358229.ts
+#EXTINF:-1 group-title="Live", SIMA SPORTS
+http://ksauae.xyz/live/462738737337/352672622626/358236.ts
+#EXTINF:-1 group-title="Live", LD CHECK SPORT
+http://ksauae.xyz/live/462738737337/352672622626/358238.ts
+#EXTINF:-1 group-title="Live", DASINYA SPORT
+http://ksauae.xyz/live/462738737337/352672622626/358230.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 2
+http://ksauae.xyz/live/462738737337/352672622626/418114.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 3
+http://ksauae.xyz/live/462738737337/352672622626/418117.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 4
+http://ksauae.xyz/live/462738737337/352672622626/418120.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 5
+http://ksauae.xyz/live/462738737337/352672622626/418123.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 6
+http://ksauae.xyz/live/462738737337/352672622626/418126.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 7
+http://ksauae.xyz/live/462738737337/352672622626/433739.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 8
+http://ksauae.xyz/live/462738737337/352672622626/433740.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 9
+http://ksauae.xyz/live/462738737337/352672622626/433741.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية 10
+http://ksauae.xyz/live/462738737337/352672622626/433742.ts
 #EXTINF:-1 group-title="Live", LIVE 1
 http://afcocafot.com:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", LIVE 2
@@ -129,12 +129,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 group-title="Family", MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="Family", طاش
-https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_1.m3u8
-#EXTINF:-1 group-title="Family", سلفي
-https://shls-live-enc.edgenextcdn.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_1.m3u8
-#EXTINF:-1 group-title="Family", باب الحارة
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="Family", Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 group-title="Family", Jordan Drama
@@ -157,10 +151,6 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="Family", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="Family", Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 group-title="Family", Movies Action
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="Family", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Family", Roya Comedy
