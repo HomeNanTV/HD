@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live", ألوان الرياضية
-http://movies65365.org/live/967923087725/68347ab7dc205/514758.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
@@ -61,6 +59,8 @@ http://ksauae.xyz/live/462738737337/352672622626/358236.ts
 http://ksauae.xyz/live/462738737337/352672622626/358238.ts
 #EXTINF:-1 group-title="Live", DASINYA SPORT
 http://ksauae.xyz/live/462738737337/352672622626/358230.ts
+#EXTINF:-1 group-title="Live", ألوان الرياضية
+http://movies65365.org/live/967923087725/68347ab7dc205/514758.ts
 #EXTINF:-1 group-title="Live", ألوان الرياضية 2
 http://ksauae.xyz/live/462738737337/352672622626/418114.ts
 #EXTINF:-1 group-title="Live", ألوان الرياضية 3
