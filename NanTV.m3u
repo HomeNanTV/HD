@@ -17,18 +17,6 @@ http://starshare.net/live/Suryaaa/SURYAAAA/652316.ts
 http://starshare.net/live/Suryaaa/SURYAAAA/652317.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 9
 http://starshare.net/live/Suryaaa/SURYAAAA/652318.ts
-#EXTINF:-1 group-title="Live", beIN SPORTS 1
-http://bnxc.logicyel.com:8001/live/60064_0.m3u8
-#EXTINF:-1 group-title="Live", beIN SPORTS 2
-http://bnxc.logicyel.com:8001/live/60065_0.m3u8
-#EXTINF:-1 group-title="Live", beIN SPORTS 3
-http://bnxc.logicyel.com:8001/live/60066_0.m3u8
-#EXTINF:-1 group-title="Live", beIN SPORTS 4
-http://bnxc.logicyel.com:8001/live/067_0.m3u8
-#EXTINF:-1 group-title="Live", beIN SPORTS 5
-http://bnxc.logicyel.com:8001/ve/60068_0.m3u8
-#EXTINF:-1 group-title="Live", beIN SPORTS 6
-http://bnxc.logicyel.com:8live/60069_0.m3u8
 #EXTINF:-1 group-title="Live", Alkass 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 6
@@ -195,5 +183,3 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Family", English
 http://352152.xyz:80/live/967923087725/68347ab7dc205/514758.ts
-#EXTINF:-1 group-title="Family", Eng
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.ts
