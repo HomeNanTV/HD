@@ -1,6 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live", LIVE
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1 group-title="Live", LIVE 1
+http://afcocafot.com:8080/bn14k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 2
+http://afcocafot.com:8080/bn24k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 3
+http://afcocafot.com:8080/bn34k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 4
+http://afcocafot.com:8080/bn44k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 5
+http://afcocafot.com:8080/bn54k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 6
+http://afcocafot.com:8080/bn64k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 7
+http://afcocafot.com:8080/bn74k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 8
+http://afcocafot.com:8080/bn84k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 9
+http://afcocafot.com:8080/bn94k/index.m3u8
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
-http://starshare.net/live/Suryaaa/SURYAAAA/652310.m3u8
+http://starshare.net/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
 http://starshare.net/live/Suryaaa/SURYAAAA/652311.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 3
@@ -53,24 +73,6 @@ http://8ksa.lol/13886599204504/24943580878503/568785
 http://8ksa.lol/13886599204504/24943580878503/568786
 #EXTINF:-1 group-title="Live", ألوان الرياضية 10
 http://8ksa.lol/13886599204504/24943580878503/568787
-#EXTINF:-1 group-title="Live", LIVE 1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 2
-http://afcocafot.com:8080/bn24k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 3
-http://afcocafot.com:8080/bn34k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 4
-http://afcocafot.com:8080/bn44k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 5
-http://afcocafot.com:8080/bn54k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 6
-http://afcocafot.com:8080/bn64k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 7
-http://afcocafot.com:8080/bn74k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 8
-http://afcocafot.com:8080/bn84k/index.m3u8
-#EXTINF:-1 group-title="Live", LIVE 9
-http://afcocafot.com:8080/bn94k/index.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
