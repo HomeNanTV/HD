@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live", ألوان الرياضية 1
+http://7up.lat/13886599204504/24943580878503/568778
+#EXTINF:-1 group-title="Live", ألوان الرياضية 2
+http://7up.lat/13886599204504/24943580878503/568779
+#EXTINF:-1 group-title="Live", ألوان الرياضية 3
+http://7up.lat/13886599204504/24943580878503/568780
+#EXTINF:-1 group-title="Live", ألوان الرياضية 4
+http://7up.lat/13886599204504/24943580878503/568781
+#EXTINF:-1 group-title="Live", ألوان الرياضية 5
+http://7up.lat/13886599204504/24943580878503/568782
+#EXTINF:-1 group-title="Live", ألوان الرياضية 6
+http://7up.lat/13886599204504/24943580878503/568783
+#EXTINF:-1 group-title="Live", ألوان الرياضية 7
+http://7up.lat/13886599204504/24943580878503/568784
+#EXTINF:-1 group-title="Live", ألوان الرياضية 8
+http://7up.lat/13886599204504/24943580878503/568785
+#EXTINF:-1 group-title="Live", ألوان الرياضية 9
+http://7up.lat/13886599204504/24943580878503/568786
+#EXTINF:-1 group-title="Live", ألوان الرياضية 10
+http://7up.lat/13886599204504/24943580878503/568787
 #EXTINF:-1 group-title="Live", TOD
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/V0BB_PDlclPfIFCLOBTmONAtbZH6V66_HjPoi604QwFeDtHnfItU3XubznffU6rbEtusV9QOGSt8TyerP4iY6Q/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 #EXTINF:-1 group-title="Live", LIVE
@@ -55,26 +75,6 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
 http://starshare.net/live/Suryaaa/SURYAAAA/605098.ts
 #EXTINF:-1 group-title="Live", Thmanyah 3
 http://starshare.net/live/Suryaaa/SURYAAAA/605099.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 1
-http://7up.lat/13886599204504/24943580878503/568778
-#EXTINF:-1 group-title="Live", ألوان الرياضية 2
-http://7up.lat/13886599204504/24943580878503/568779
-#EXTINF:-1 group-title="Live", ألوان الرياضية 3
-http://7up.lat/13886599204504/24943580878503/568780
-#EXTINF:-1 group-title="Live", ألوان الرياضية 4
-http://7up.lat/13886599204504/24943580878503/568781
-#EXTINF:-1 group-title="Live", ألوان الرياضية 5
-http://7up.lat/13886599204504/24943580878503/568782
-#EXTINF:-1 group-title="Live", ألوان الرياضية 6
-http://7up.lat/13886599204504/24943580878503/568783
-#EXTINF:-1 group-title="Live", ألوان الرياضية 7
-http://7up.lat/13886599204504/24943580878503/568784
-#EXTINF:-1 group-title="Live", ألوان الرياضية 8
-http://7up.lat/13886599204504/24943580878503/568785
-#EXTINF:-1 group-title="Live", ألوان الرياضية 9
-http://7up.lat/13886599204504/24943580878503/568786
-#EXTINF:-1 group-title="Live", ألوان الرياضية 10
-http://7up.lat/13886599204504/24943580878503/568787
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
