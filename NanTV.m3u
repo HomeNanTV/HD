@@ -115,6 +115,26 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:-1 group-title="Family", MBC ACTION 
 http://102.177.177.232/MBCACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Family", Alwan Aflam 1
+http://7up.lat:80/13886599204504/24943580878503/568803
+#EXTINF:-1 group-title="Family", Alwan Aflam 2
+http://7up.lat:80/13886599204504/24943580878503/568804
+#EXTINF:-1 group-title="Family", Alwan Aflam 3
+http://7up.lat:80/13886599204504/24943580878503/568805
+#EXTINF:-1 group-title="Family", Alwan Aflam 4
+http://7up.lat:80/13886599204504/24943580878503/568806
+#EXTINF:-1 group-title="Family", Alwan Turkey
+http://7up.lat:80/13886599204504/24943580878503/568807
+#EXTINF:-1 group-title="Family", Alwan Mosalsalat
+http://7up.lat:80/13886599204504/24943580878503/568810
+#EXTINF:-1 group-title="Family", Alwan Mosalsalat +
+http://7up.lat:80/13886599204504/24943580878503/568814
+#EXTINF:-1 group-title="Family", Alwan Korea
+http://7up.lat:80/13886599204504/24943580878503/568813
+#EXTINF:-1 group-title="Family", Alwan Anime
+http://7up.lat:80/13886599204504/24943580878503/568815
+#EXTINF:-1 group-title="Family", Alwan Bollywood
+http://7up.lat:80/13886599204504/24943580878503/568812
 #EXTINF:-1 group-title="Family", Qatar
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Family", Qatar 2
