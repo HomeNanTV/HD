@@ -59,6 +59,10 @@ http://afcocafot.com:8080/bn74k/index.m3u8
 http://afcocafot.com:8080/bn84k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 9
 http://afcocafot.com:8080/bn94k/index.m3u8
+#EXTINF:-1 group-title="Live", LIVE 10
+http://kkkserver.site/beinSpo1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", LIVE 11
+http://kkkserver.site/alwan-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Alkass 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 6
