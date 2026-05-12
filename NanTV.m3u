@@ -40,24 +40,26 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&e
 #EXTINF:-1 group-title="Live", LIVE 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch3_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 4
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch4_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 5
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 6
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch6_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 7
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch7_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 8
-http://afcocafot.com:8080/bn84k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch8_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 9
-http://afcocafot.com:8080/bn94k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch9_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 10
-http://kkkserver.site/beinSpo1/tracks-v1a1/mono.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch10_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 11
+http://kkkserver.site/beinSpo1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live", LIVE 12
 http://kkkserver.site/alwan-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Alkass 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
