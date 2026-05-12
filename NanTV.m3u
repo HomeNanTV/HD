@@ -37,22 +37,20 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798792&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 9
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
-#EXTINF:-1 group-title="Live", LIVE
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 1
-http://afcocafot.com:8080/bn14k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 2
-http://afcocafot.com:8080/bn24k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 3
-http://afcocafot.com:8080/bn34k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 4
-http://afcocafot.com:8080/bn44k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 5
-http://afcocafot.com:8080/bn54k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 6
-http://afcocafot.com:8080/bn64k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 7
-http://afcocafot.com:8080/bn74k/index.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 8
 http://afcocafot.com:8080/bn84k/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 9
