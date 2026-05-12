@@ -74,6 +74,10 @@ https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
 #EXTINF:-1 group-title="Live", Thmanyah
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
 #EXTINF:-1 group-title="Live", Thmanyah
+https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
+#EXTINF:-1 group-title="Live", Thmanyah
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
+#EXTINF:-1 group-title="Live", Thmanyah
 http://kkkserver.site/THMAN.1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Thmanyah 1
 https://dflive.app.tc/20.m3u8
