@@ -37,14 +37,16 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798792&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 9
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
+#EXTINF:-1 group-title="Live", LIVE
+http://hk.extend2.shop/13886599204504/24943580878503/639125
 #EXTINF:-1 group-title="Live", LIVE 1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+http://hk.extend2.shop/13886599204504/24943580878503/639134
 #EXTINF:-1 group-title="Live", LIVE 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u8
+http://hk.extend2.shop/13886599204504/24943580878503/639123
 #EXTINF:-1 group-title="Live", LIVE 3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch3_1080.m3u8
+http://hk.extend2.shop/13886599204504/24943580878503/639127
 #EXTINF:-1 group-title="Live", LIVE 4
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch4_1080.m3u8
+http://hk.extend2.shop/13886599204504/24943580878503/639139
 #EXTINF:-1 group-title="Live", LIVE 5
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch5_1080.m3u8
 #EXTINF:-1 group-title="Live", LIVE 6
