@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live", ألوان الرياضية 1
+#EXTINF:-1 group-title="Live", Alwan Sport1
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="Live", Alwan 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 2
+#EXTINF:-1 group-title="Live", Alwan Sport 2
 http://hk.extend2.shop/13886599204504/24943580878503/568779
 #EXTINF:-1 group-title="Live", Alwan 2
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
 #EXTINF:-1 group-title="Live", Alwan tow
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
-#EXTINF:-1 group-title="Live", ألوان الرياضية 3
+#EXTINF:-1 group-title="Live", Alwan Sport 3
 http://hk.extend2.shop/13886599204504/24943580878503/568780
 #EXTINF:-1 group-title="Live", Alwan 3
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 4
+#EXTINF:-1 group-title="Live", Alwan Sport 4
 http://hk.extend2.shop/13886599204504/24943580878503/568781
 #EXTINF:-1 group-title="Live", Alwan 4
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts
-#EXTINF:-1 group-title="Live", ألوان الرياضية 5
+#EXTINF:-1 group-title="Live", Alwan Sport 5
 http://hk.extend2.shop/13886599204504/24943580878503/568782
-#EXTINF:-1 group-title="Live", ألوان الرياضية 6
+#EXTINF:-1 group-title="Live", Alwan Sport 6
 http://hk.extend2.shop/13886599204504/24943580878503/568783
-#EXTINF:-1 group-title="Live", ألوان الرياضية 7
+#EXTINF:-1 group-title="Live", Alwan Sport 7
 http://hk.extend2.shop/13886599204504/24943580878503/568784
-#EXTINF:-1 group-title="Live", ألوان الرياضية 8
+#EXTINF:-1 group-title="Live", Alwan Sport 8
 http://hk.extend2.shop/13886599204504/24943580878503/568785
-#EXTINF:-1 group-title="Live", ألوان الرياضية 9
+#EXTINF:-1 group-title="Live", Alwan Sport 9
 http://hk.extend2.shop/13886599204504/24943580878503/568786
-#EXTINF:-1 group-title="Live", ألوان الرياضية 10
+#EXTINF:-1 group-title="Live", Alwan Sport 10
 http://hk.extend2.shop/13886599204504/24943580878503/568787
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
-#EXTINF:-1 group-title="Live", beIN SPORTS 1
+#EXTINF:-1 group-title="Live", beIN 1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28263.ts
@@ -51,8 +51,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
 #EXTINF:-1 group-title="Live", LIVE
 http://hk.extend2.shop/13886599204504/24943580878503/639125
-#EXTINF:-1 group-title="Live", LIVE X
-https://mejarhosting.b-cdn.net/castx-fhd/index.m3u8
 #EXTINF:-1 group-title="Live", LIVE 1
 http://hk.extend2.shop/13886599204504/24943580878503/639134
 #EXTINF:-1 group-title="Live", LIVE 2
@@ -61,20 +59,6 @@ http://hk.extend2.shop/13886599204504/24943580878503/639123
 http://hk.extend2.shop/13886599204504/24943580878503/639127
 #EXTINF:-1 group-title="Live", LIVE 4
 http://kkkserver.site/alwan-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", LIVE 5
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch5_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 6
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch6_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 7
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch7_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch8_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 9
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch9_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 10
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch10_1080.m3u8
-#EXTINF:-1 group-title="Live", LIVE 11
-http://kkkserver.site/beinSpo1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live", Alkass 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 6
@@ -85,20 +69,6 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 9
 https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
-#EXTINF:-1 group-title="Live", Thmanyah
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
-#EXTINF:-1 group-title="Live", Thmanyah
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
-#EXTINF:-1 group-title="Live", Thmanyah
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
-#EXTINF:-1 group-title="Live", Thmanyah
-http://kkkserver.site/THMAN.1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Live", Thmanyah 1
-https://dflive.app.tc/20.m3u8
-#EXTINF:-1 group-title="Live", Thmanyah 2
-https://dflive.app.tc/60.m3u8
-#EXTINF:-1 group-title="Live", Thmanyah 3
-https://dflive.app.tc/61.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", Tennis
