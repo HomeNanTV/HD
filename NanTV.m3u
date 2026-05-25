@@ -67,20 +67,18 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
 #EXTINF:-1 group-title="Live", Alkass 9
 https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
-#EXTINF:-1 group-title="Sport", Goal Zone
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-#EXTINF:-1 group-title="Sport", Tennis
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Tennis +
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Horse TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SHOOF 1
+#EXTINF:-1 group-title="Live", SHOOF 1
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 group-title="Sport", SHOOF 2
+#EXTINF:-1 group-title="Live", SHOOF 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+#EXTINF:-1 group-title="Live", Tennis
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Live", Tennis +
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Live", Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Live", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", SAUDI
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 group-title="Family", MBC KSA
@@ -185,12 +183,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="Family", iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 group-title="Family", TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 group-title="Family", TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Family", Canal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 group-title="Family", Homes Under Hammer
