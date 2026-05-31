@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live", ALWAN SPORT 1
 http://hk.extend2.shop/13886599204504/24943580878503/568778
-#EXTINF:-1 group-title="Live", alwan sport 1
-http://185.191.126.127:8080/4750034742512197/3177932697568638/418111
 #EXTINF:-1 group-title="Live", Alwan 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts
 #EXTINF:-1 group-title="Live", ALWAN SPORT 2
 http://hk.extend2.shop/13886599204504/24943580878503/568779
-#EXTINF:-1 group-title="Live", alwan sport 2
-http://185.191.126.127:8080/4750034742512197/3177932697568638/418114
 #EXTINF:-1 group-title="Live", Alwan 2
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
 #EXTINF:-1 group-title="Live", Alwan Sport 3
@@ -37,8 +33,6 @@ http://185.191.126.127:8080/4750034742512197/3177932697568638/460861
 http://185.191.126.127:8080/4750034742512197/3177932697568638/460864
 #EXTINF:-1 group-title="Live", beIN SPORTS 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
-#EXTINF:-1 group-title="Live", TOD
-http://185.191.126.127:8080/4750034742512197/3177932697568638/460836
 #EXTINF:-1 group-title="Live", beIN SPORTS 2
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28263.ts
 #EXTINF:-1 group-title="Live", beIN SPORTS 3
@@ -143,6 +137,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Family", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:-1 group-title="Family", Huna London
+https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 group-title="Family", Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="Family", Mix Hollywood
