@@ -72,11 +72,15 @@ http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitG
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 1 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
 #EXTINF:-1 group-title="SPORT", beIN 1 $
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts 
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts
+#EXTINF:-1 group-title="SPORT", beIN 1+ $
+https://stream.oz-tv.store/s1b/b_1_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 2 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28263.ts
 #EXTINF:-1 group-title="SPORT", beIN 2 $
 http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101899.ts
+#EXTINF:-1 group-title="SPORT", beIN 2+ $
+https://stream.oz-tv.store/s1b/b_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 3 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28264.ts
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 4 $
